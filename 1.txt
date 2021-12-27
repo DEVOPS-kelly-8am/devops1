@@ -1,1 +1,1 @@
-this is first file and making git ignore
+this is first file
