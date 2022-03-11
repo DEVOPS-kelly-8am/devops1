@@ -1,2 +1,6 @@
-merge 3
+merge
 menu ordered merge
+
+changes by m4
+done by m4
+
